@@ -168,6 +168,7 @@ div#linguas {
     position: relative;
     gap: 5px;
     right: 16vw;
+    top: 9vh;
 }
 
 a#uk {
